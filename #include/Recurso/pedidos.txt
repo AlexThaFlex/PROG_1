@@ -1,0 +1,1 @@
+C 4 L 5 C 3 C 5 L 7 C 3 L 2 C 2 L 4 L 3 C 6 L 3 C 3 L 2 C 2 L 4 L 3 C 6 L 3 C 3 L 2 C 2 L 4 L 3 C 6 L 3 L 2 C 2 L 4 L 3 C 6 L 3 L 7 C 3 L 2 C 2 L 4 L 3 C 6 L 3 C 3 L 2 C 2 L 4 L 3 C 6 L 3 C 3 L 2 C 2 L 4 L 3 C 6 L 3 L 2 C 2 L 4 L 3 C 6 L 3 C 4 C 6 C 7 C 3 C 8 F

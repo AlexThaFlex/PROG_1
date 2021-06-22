@@ -1,0 +1,16 @@
+Stephen Curry GSW 35 34.4 29.8
+Kevin Durant GSW 46 35.6 28.1
+Klay Thompson GSW 46 34.3 21.6
+DeMarcus Cousins GSW 1 15.1 14.0
+Quinn Cook GSW 40 15.0 7.7
+Draymond Green GSW 32 31.4 7.2
+Jonas Jerebko GSW 46 19.2 7.1
+Kevon Looney GSW 46 21.1 6.6
+Andre Iguodala GSW 41 23.3 5.6
+Damian Jones GSW 24 17.1 5.4
+Alfonzo McKinnie GSW 37 14.5 5.2
+Damion Lee GSW 16 12.2 4.9
+Shaun Livingston GSW 35 15.5 4.6
+Marcus Derrickson GSW 6 5.7 2.8
+Jordan Bell GSW 43 11.0 2.8
+Jacob Evans GSW 23 4.3 0.6

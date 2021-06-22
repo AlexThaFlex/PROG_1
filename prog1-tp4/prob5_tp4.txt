@@ -1,0 +1,27 @@
+#include <stdio.h>
+int main() {
+    char c;
+    int conta, conte, conti, conto, contu;
+    printf("Introduza uma frase. \n");
+    while(c != '.'){
+        scanf("%c", &c);
+        switch (c){
+            case 'a': conta++;
+            case 'A': conta++;
+            case 'e': conte++;
+            case 'E': conte++;
+            case 'i': conti++;
+            case 'I': conti++;
+            case 'o': conto++;
+            case 'O': conto++;
+            case 'u': contu++;
+            case 'U': contu++;
+        }
+        
+printf("A- %d", conta);
+printf("E- %d", conte);
+printf("I- %d", conti);
+printf("O- %d", conto);
+printf("U- %d", contu);
+
+}

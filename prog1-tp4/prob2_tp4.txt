@@ -1,0 +1,15 @@
+#include <stdio.h>
+int main(){
+    int num, i=2;
+    printf("Insira o numero: \n");
+    scanf("%d", &num);
+
+
+    while (i < 1000)
+    {
+         if(num % i == 0)
+        printf("%d", i);
+        else if i += i;
+        
+    }
+}  

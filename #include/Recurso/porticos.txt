@@ -1,0 +1,68 @@
+Porto_QWE 1.75
+Porto_RTY 0.95
+Porto_UIO 1.34
+Porto_ASD 0.5
+Porto_FGH 0.5
+Porto_JKL 1.75
+Porto_ZXC 0.9
+Porto_VBN 1.7
+Matosinhos_QWE 1.85
+Matosinhos_RTY 2.35
+Matosinhos_UIO 0.95
+Matosinhos_ASD 1.2
+Gaia_FGH 1.1
+Gaia_JKL 1.45
+Gaia_ZXC 0.4
+Gaia_VBN 0.9
+Maia_QWE 3.75
+Maia_RTY 2.35
+Maia_UIO 0.9
+Maia_ASD 2.1
+Povoa_FGH 1.8
+Povoa_JKL 0.95
+Povoa_ZXC 1.25
+Povoa_VBN 2.1
+fim_porticos
+12-34-QP Porto_QWE 8 21
+23-45-EO Porto_ASD 9 47
+34-56-RI Porto_FGH 9 53
+45-67-TU Gaia_FGH 10 02
+56-78-AL Matosinhos_RTY 11 16
+67-89-SJ Porto_QWE 14 14
+78-90-DH Povoa_FGH 14 32
+89-01-FG Porto_ZXC 15 59
+90-12-ZM Porto_QWE 16 44
+01-23-XN Povoa_JKL 17 27
+34-56-RI Porto_ZXC 7 22
+45-67-TU Porto_QWE 18 48
+56-78-AL Porto_JKL 19 15
+67-89-SJ Maia_RTY 19 29
+23-45-EO Porto_JKL 19 56
+34-56-RI Povoa_FGH 20 0
+90-12-ZM Maia_RTY 20 3
+01-23-XN Matosinhos_QWE 20 41
+34-56-RI Povoa_FGH 21 24
+12-34-QP Matosinhos_ASD 23 47
+23-45-EO Maia_QWE 23 51
+12-34-QP Porto_QWE 8 21
+23-EF-12 Porto_ASD 9 47
+34-56-RI Matosinhos_RTY 9 53
+45-67-TU Gaia_JKL 10 02
+56-78-AL Matosinhos_RTY 12 17
+67-89-SJ Povoa_FGH 14 14
+78-GF-43 Gaia_JKL 7 32
+89-01-FG Matosinhos_QWE 15 59
+90-12-ZM Porto_QWE 16 44
+01-23-XN Povoa_JKL 16 27
+34-56-RI Matosinhos_UIO 17 29
+45-67-TU Porto_QWE 18 48
+56-RT-54 Porto_JKL 18 15
+67-89-SJ Maia_RTY 19 29
+23-SC-22 Porto_JKL 19 57
+34-56-RI Porto_QWE 17 0
+90-RM-12 Povoa_FGH 20 3
+01-23-XN Matosinhos_QWE 20 42
+34-56-RI Povoa_FGH 21 25
+12-QP-72 Matosinhos_ASD 20 42
+23-CL-56 Maia_QWE 22 45
+fim_passagens
